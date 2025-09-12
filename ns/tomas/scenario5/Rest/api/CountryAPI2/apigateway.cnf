@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<IDataXMLCoder version="1.0">
+  <record javaclass="com.wm.data.ISMemDataImpl">
+    <value name="http://IBM-PF39GCDY:5555">5126e6fd-62ee-4f72-a54a-de2e5f8c0f5c</value>
+  </record>
+</IDataXMLCoder>
