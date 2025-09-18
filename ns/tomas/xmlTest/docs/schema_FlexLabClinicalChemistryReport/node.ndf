@@ -12311,7 +12311,7 @@
       <value name="http://www.w3.org/2001/XMLSchema">xs</value>
       <value name="http://www.healthxml.org/Schemas/CEN/1613/2001/01/Ehcm">ns</value>
     </record>
-    <value name="originURI">file:///C:\Users\TomasSvensson\OneDrive - IBM\Documents\Accounts\Regionerna\Kronoberg\Region Kronoberg PoC\XML Sample\FlexLabClinicalChemistryReport.xsd</value>
+    <value name="originURI">file:///C:\Users\TomasSvensson\OneDrive - IBM\Documents\Accounts\Regionerna\Kronoberg\Region Kronoberg PoC\XML Sample\Schemas\FlexLabClinicalChemistryReport.xsd</value>
     <value name="modifiable">false</value>
   </record>
 </Values>

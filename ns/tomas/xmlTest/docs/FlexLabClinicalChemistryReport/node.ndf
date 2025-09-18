@@ -12,7 +12,7 @@
     <value name="nillable">true</value>
     <value name="form_qualified">false</value>
     <value name="is_global">false</value>
-    <value name="originURI">file:///C:\Users\TomasSvensson\OneDrive - IBM\Documents\Accounts\Regionerna\Kronoberg\Region Kronoberg PoC\XML Sample\FlexLabClinicalChemistryReport.xsd</value>
+    <value name="originURI">file:///C:\Users\TomasSvensson\OneDrive - IBM\Documents\Accounts\Regionerna\Kronoberg\Region Kronoberg PoC\XML Sample\Schemas\FlexLabClinicalChemistryReport.xsd</value>
     <array name="rec_fields" type="record" depth="1">
       <record javaclass="com.wm.util.Values">
         <value name="node_type">record</value>
